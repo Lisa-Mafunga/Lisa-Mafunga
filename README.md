@@ -1,7 +1,7 @@
 <h1>Hi, I'm Lisa Trish Mafunga! <br/><a href="https://github.com/Lisa-Mafunga"></a> <a href="https://www.linkedin.com/in/lisa-trish-mafunga-b16521272/"></a>
 
 <h2>⚡ About Me</h2>
-<p>I’m an aspiring frontend developer and a dedicated student with a passion for creating engaging web experiences. Through programs like Africa Agility and Women in Techsters, I’ve gained hands-on experience in frontend development and collaboration. I’m currently honing my skills in HTML, CSS, and JavaScript, and I’m eager to take on new challenges. I believe in continuous learning and the power of community in tech.</p>
+<p>I'm an aspiring software developer eager to learn in the industry. My passion lies in creating engaging web experiences. Through programs like Africa Agility and Women in Techsters, I've gained hands-on experience in frontend development and collaboration. Currently, I'm honing my skills in HTML, CSS, and JavaScript, Typescript and I'm excited to tackle new challenges. I believe in the importance of continuous learning and the value of community in tech.</p>
 
 
 <h2>👨‍💻 Projects:</h2>
