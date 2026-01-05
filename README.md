@@ -4,11 +4,21 @@
 <p>I’m an aspiring frontend developer and a dedicated student with a passion for creating engaging web experiences. Through programs like Africa Agility and Women in Techsters, I’ve gained hands-on experience in frontend development and collaboration. I’m currently honing my skills in HTML, CSS, and JavaScript, and I’m eager to take on new challenges. I believe in continuous learning and the power of community in tech.</p>
 
 
-<h2>👨‍💻 Frontend Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 <p><b> 🔭 PSYCFLO</b>  <br> <br> PSYCFLO is more than just a project — it’s a mission. It’s a mental health assistant platform combined with a menstrual poverty alleviation initiative, designed to support mental well-being while providing menstrual pads to those who need them most. This project allowed me to apply my frontend skills in a collaborative environment, focusing on user experience and responsive design.</p>
 
 [View Live](https://pyscflo.vercel.app) | [Github](https://github.com/Lisa-Mafunga/PSYCFLO-Africa-Agility-Hackathon) 
+
+<p><b> HealthEd</b> <br> <br>
+
+HealthEd is a digital Sexual Health Education Platform tailored for students at Midlands State University (MSU) in Zimbabwe. This initiative addresses the pressing need for accessible and accurate sexual health resources among young people, particularly in the university context. 
+
+The platform features interactive modules on various sexual health topics, an anonymous Q&A forum moderated by healthcare professionals, and a community space for peer support. By employing a mixed-methods research approach, the project gathers quantitative and qualitative data from students and stakeholders, which informs its design. Key findings highlight the preference for mobile-friendly content, the importance of anonymity, and the need for culturally relevant resources.
+
+The platform prioritizes user experience, security, and compliance with local health education standards. A phased implementation strategy encourages user engagement and feedback, allowing the platform to adapt to users' needs over time. Additionally, maintenance plans focus on content accuracy and sustainability, ensuring ongoing training and support for both students and healthcare professionals.
+
+Ultimately, HealthEd aims to enhance sexual health education, promote informed decision-making, and contribute to improved public health outcomes in Zimbabwe, serving as a model for similar initiatives in other educational institutions. </p>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -16,16 +26,3 @@
 
 [linkedin]: https://www.linkedin.com/in/lisa-trish-mafunga-b16521272/
 
-
-<!---
-Lisa-Mafunga/Lisa-Mafunga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 👋 Hi, I’m @Lisa-Mafunga
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
