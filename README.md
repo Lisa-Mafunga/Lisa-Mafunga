@@ -11,7 +11,7 @@
 [View Live](https://pyscflo.vercel.app) | [Github](https://github.com/Lisa-Mafunga/PSYCFLO-Africa-Agility-Hackathon) 
 
 
-<br><p><b> 🔭 HEALTHED</b> <br>
+<p><b> 🔭 HEALTHED</b> <br>
 
 HealthEd is a digital Sexual Health Education Platform tailored for students at Midlands State University (MSU) in Zimbabwe. This initiative addresses the pressing need for accessible and accurate sexual health resources among young people, particularly in the university context. 
 
