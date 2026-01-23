@@ -23,6 +23,12 @@ Ultimately, HealthEd aims to enhance sexual health education, promote informed d
 
 [View Live  | [Github](https://github.com/Lisa-Mafunga/4.2-Dissertation-Project--HealthEd-) 
 
+
+<p><b> 🔭 Weather forecast application</b>  <br> <br> 
+ A modern, responsive weather dashboard application built with React and TypeScript. Get current weather conditions and 5-day forecasts for cities worldwide, powered by OpenWeatherMap API.</p>
+
+[View Live](https://boisterous-croquembouche-32264d.netlify.app/) | [Github](https://github.com/Lisa-Mafunga/Weather-dashboard-application)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -30,8 +36,5 @@ Ultimately, HealthEd aims to enhance sexual health education, promote informed d
 [linkedin]: https://www.linkedin.com/in/lisa-trish-mafunga-b16521272/
 
 
-<p><b> 🔭 Weather forecast application</b>  <br> <br> 
- A modern, responsive weather dashboard application built with React and TypeScript. Get current weather conditions and 5-day forecasts for cities worldwide, powered by OpenWeatherMap API.</p>
 
-[View Live](https://boisterous-croquembouche-32264d.netlify.app/) | [Github]((https://github.com/Lisa-Mafunga/Weather-dashboard-application)) 
 
