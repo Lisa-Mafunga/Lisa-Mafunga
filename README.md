@@ -21,7 +21,7 @@ The platform prioritizes user experience, security, and compliance with local he
 
 Ultimately, HealthEd aims to enhance sexual health education, promote informed decision-making, and contribute to improved public health outcomes in Zimbabwe, serving as a model for similar initiatives in other educational institutions. </p>
 
-[View Live  | [Github](https://github.com/Lisa-Mafunga/4.2-Dissertation-Project--HealthEd-) 
+[View Live](https://timely-shortbread-baf27f.netlify.app/)  | [Github](https://github.com/Lisa-Mafunga/4.2-Dissertation-Project--HealthEd-) 
 
 
 <p><b> 🔭 Weather forecast application</b>  <br> <br> 
