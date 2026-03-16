@@ -1,12 +1,25 @@
 <h1>Hi, I'm Lisa Trish Mafunga! <br/><a href="https://github.com/Lisa-Mafunga"></a> <a href="https://www.linkedin.com/in/lisa-trish-mafunga-b16521272/"></a>
 
 <h2>⚡ About Me</h2>
-<p>I'm an aspiring software developer eager to learn in the industry. My passion lies in creating engaging web experiences. Through programs like Africa Agility and Women in Techsters, I've gained hands-on experience in frontend development and collaboration. Currently, I'm honing my skills in HTML, CSS, and JavaScript, Typescript and I'm excited to tackle new challenges. I believe in the importance of continuous learning and the value of community in tech.</p>
+<p>l am a passionate software developer with a strong foundation in creating innovative and efficient solutions. I thrive on challenges and am constantly exploring new technologies and methodologies to enhance my skills.
+
+I enjoy building responsive applications and collaborating with teams to transform ideas into reality. My approach blends creativity with technical expertise, ensuring user-friendly and high-performance software.</p>
 
 
 <h2>👨‍💻 Projects:</h2>
 
-<p><b> 🔭 PSYCFLO</b>  <br> <br> PSYCFLO is more than just a project — it’s a mission. It’s a mental health assistant platform combined with a menstrual poverty alleviation initiative, designed to support mental well-being while providing menstrual pads to those who need them most. This project allowed me to apply my frontend skills in a collaborative environment, focusing on user experience and responsive design.</p>
+<p><b>CB Muchero Innovation Hub Company Website</b> <br> <br> 
+ 
+ CB Muchero Innovation Hub is an organisation that was founded by Rutendo Whitney Muchero, (Pro.Dir). Established in 2023, it aims to bridge the digital divide and promote economic inclusion by equipping individuals with the tools and confidence needed to thrive in today's digital era in line with UN SDG Goal 5.
+
+Their aim is to empower mainly girls, women and other community members with essential basic computer, smartphone, AI and Robotics skills through accessible hands-on training, fostering personal growth and socio-economic advancement.</p>
+
+[View Live](https://www.cbmucheroinnovationhub.co.zw/)
+
+
+<p><b> 🔭 PSYCFLO</b>  <br> <br> 
+ 
+ PSYCFLO is more than just a project - it’s a mission. It’s a mental health assistant platform combined with a menstrual poverty alleviation initiative, designed to support mental well-being while providing menstrual pads to those who need them most. This project allowed me to apply my frontend skills in a collaborative environment, focusing on user experience and responsive design.</p>
 
 [View Live](https://pyscflo.vercel.app) | [Github](https://github.com/Lisa-Mafunga/PSYCFLO-Africa-Agility-Hackathon) 
 
