@@ -8,7 +8,7 @@ I enjoy building responsive applications and collaborating with teams to transfo
 
 <h2>👨‍💻 Projects:</h2>
 
-<p><b>CB Muchero Innovation Hub Company Website</b> <br> <br> 
+<p><b> 🔭CB MUCHERO INNOVATION HUB COMPANY WEBSITE</b> <br>
  
  CB Muchero Innovation Hub is an organisation that was founded by Rutendo Whitney Muchero, (Pro.Dir). Established in 2023, it aims to bridge the digital divide and promote economic inclusion by equipping individuals with the tools and confidence needed to thrive in today's digital era in line with UN SDG Goal 5.
 
@@ -17,7 +17,7 @@ Their aim is to empower mainly girls, women and other community members with ess
 [View Live](https://www.cbmucheroinnovationhub.co.zw/)
 
 
-<p><b> 🔭 PSYCFLO</b>  <br> <br> 
+<p><b> 🔭 PSYCFLO</b>  <br> 
  
  PSYCFLO is more than just a project - it’s a mission. It’s a mental health assistant platform combined with a menstrual poverty alleviation initiative, designed to support mental well-being while providing menstrual pads to those who need them most. This project allowed me to apply my frontend skills in a collaborative environment, focusing on user experience and responsive design.</p>
 
@@ -37,7 +37,7 @@ Ultimately, HealthEd aims to enhance sexual health education, promote informed d
 [View Live](https://timely-shortbread-baf27f.netlify.app/)  | [Github](https://github.com/Lisa-Mafunga/4.2-Dissertation-Project--HealthEd-) 
 
 
-<p><b> 🔭 Weather forecast application</b>  <br> <br> 
+<p><b> 🔭 Weather forecast application</b>  <br> 
  A modern, responsive weather dashboard application built with React and TypeScript. Get current weather conditions and 5-day forecasts for cities worldwide, powered by OpenWeatherMap API.</p>
 
 [View Live](https://boisterous-croquembouche-32264d.netlify.app/) | [Github](https://github.com/Lisa-Mafunga/Weather-dashboard-application)
