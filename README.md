@@ -17,14 +17,7 @@ Their aim is to empower mainly girls, women and other community members with ess
 [View Live](https://www.cbmucheroinnovationhub.co.zw/)
 
 
-<p><b> 🔭 PSYCFLO</b>  <br> 
- 
- PSYCFLO is more than just a project - it’s a mission. It’s a mental health assistant platform combined with a menstrual poverty alleviation initiative, designed to support mental well-being while providing menstrual pads to those who need them most. This project allowed me to apply my frontend skills in a collaborative environment, focusing on user experience and responsive design.</p>
-
-[View Live](https://pyscflo.vercel.app) | [Github](https://github.com/Lisa-Mafunga/PSYCFLO-Africa-Agility-Hackathon) 
-
-
-<p><b> 🔭 HEALTHED</b> <br>
+<p><b> 🔭 HEALTHED - DISSERTATION PROJECT</b> <br> 
 
 HealthEd is a digital Sexual Health Education Platform tailored for students at Midlands State University (MSU) in Zimbabwe. This initiative addresses the pressing need for accessible and accurate sexual health resources among young people, particularly in the university context. 
 
@@ -35,6 +28,13 @@ The platform prioritizes user experience, security, and compliance with local he
 Ultimately, HealthEd aims to enhance sexual health education, promote informed decision-making, and contribute to improved public health outcomes in Zimbabwe, serving as a model for similar initiatives in other educational institutions. </p>
 
 [View Live](https://timely-shortbread-baf27f.netlify.app/)  | [Github](https://github.com/Lisa-Mafunga/4.2-Dissertation-Project--HealthEd-) 
+
+
+<p><b> 🔭 PSYCFLO</b>  <br> 
+ 
+ PSYCFLO is more than just a project - it’s a mission. It’s a mental health assistant platform combined with a menstrual poverty alleviation initiative, designed to support mental well-being while providing menstrual pads to those who need them most. This project allowed me to apply my frontend skills in a collaborative environment, focusing on user experience and responsive design.</p>
+
+[View Live](https://pyscflo.vercel.app) | [Github](https://github.com/Lisa-Mafunga/PSYCFLO-Africa-Agility-Hackathon) 
 
 
 <p><b> 🔭 Weather forecast application</b>  <br> 
